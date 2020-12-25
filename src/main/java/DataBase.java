@@ -1,7 +1,6 @@
 import java.sql.*;
 
 public class DataBase {
-    //DESKTOP-0HJNGIA\MSSQL  price_tag
     private final String dataBase = "Name your database";
     private final String url      = "your link to the database" + dataBase;
     private final String user     = "User";
